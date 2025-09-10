@@ -10,7 +10,7 @@
 
 ### ✅ প্রকাশিত
 
-1. [Dynamic Memory Allocation](docs/Dynamic-Memory-Allocation.md)
+1. [Dynamic Memory Allocation](docs/DynamicMemoryAllocation.md)
 
 <!-- ### 🕒 আসছে শিগগিরই (InshaAllah)
 
